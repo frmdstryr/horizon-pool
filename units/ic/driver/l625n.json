@@ -1,0 +1,175 @@
+{
+    "manufacturer": "ST",
+    "name": "L6235",
+    "pins": {
+        "030f89d3-5ff9-44de-9da0-4f4acfb2f50f": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSB",
+            "swap_group": 0
+        },
+        "0bb4a78a-7d58-444c-ba17-66b4300e844a": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "OUT1",
+            "swap_group": 0
+        },
+        "11d603f1-d517-40ba-a76d-18e349a10d12": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "VCP",
+            "swap_group": 0
+        },
+        "175237e7-8295-4c6b-82fe-ed5907e46260": {
+            "direction": "input",
+            "names": [
+                "Enable"
+            ],
+            "primary_name": "EN",
+            "swap_group": 0
+        },
+        "18b2789d-0a17-433b-8e22-e875db1c4775": {
+            "direction": "input",
+            "names": [
+                "Hall",
+                "Sensor",
+                "2"
+            ],
+            "primary_name": "H2",
+            "swap_group": 0
+        },
+        "1aa15b72-4a01-4072-810e-332f3800419c": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "1e370513-0d8c-4902-9a43-9896b322c9be": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "290e1b59-fa04-4356-96ec-3e53dfdf6462": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "RCOFF",
+            "swap_group": 0
+        },
+        "411595b1-cb95-499a-aa50-c67c677db591": {
+            "direction": "input",
+            "names": [
+                "Hall",
+                "Sensor",
+                "1"
+            ],
+            "primary_name": "H1",
+            "swap_group": 0
+        },
+        "53925536-90ad-47cd-a9ed-638fca6b95f5": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "RCPULSE",
+            "swap_group": 0
+        },
+        "5a87850d-3f77-4cca-a854-1e5fc86a1add": {
+            "direction": "output",
+            "names": [
+                "Sense",
+                "A"
+            ],
+            "primary_name": "SENSEA",
+            "swap_group": 0
+        },
+        "693ba077-122f-4b50-b0eb-0d55d4c108c1": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "697b418a-e7e0-4c4e-b2a6-596e1e08a885": {
+            "direction": "output",
+            "names": [
+                "Tachometer"
+            ],
+            "primary_name": "TACHO",
+            "swap_group": 0
+        },
+        "6e1c01e8-c0db-4b84-9e48-42271add9fc2": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VBOOT",
+            "swap_group": 1
+        },
+        "75996a17-3036-4fb1-9822-9a4aa0446d48": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSA",
+            "swap_group": 0
+        },
+        "8c9dc7e5-df56-4049-aac2-103d42aaf5d4": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "OUT2",
+            "swap_group": 0
+        },
+        "93aae212-c514-4190-809c-9b234b2085ec": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "949c607a-ad0f-4c12-b7c6-45c515e5f0b6": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "SENSEB",
+            "swap_group": 0
+        },
+        "a89c034f-cdfe-4e67-98d2-736dee1fdaac": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "VREF",
+            "swap_group": 0
+        },
+        "cb2a1adb-7b5c-416f-8a0c-5c11ab3eab7b": {
+            "direction": "output",
+            "names": [
+                "Diagnosis"
+            ],
+            "primary_name": "DIAG",
+            "swap_group": 0
+        },
+        "ea52ab99-a3e6-40ba-b3ee-804a65a427b4": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "OUT3",
+            "swap_group": 0
+        },
+        "ef34048f-68a8-4051-bf9a-383188304a9e": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "BRAKE",
+            "swap_group": 0
+        },
+        "f15a667c-3543-4d69-9841-4b80eea725b2": {
+            "direction": "input",
+            "names": [
+                "Direction"
+            ],
+            "primary_name": "FWD/REV",
+            "swap_group": 0
+        },
+        "fc00f8a0-ee80-4c09-b268-73eff2e3cc5c": {
+            "direction": "input",
+            "names": [
+                "Hall",
+                "Sensor",
+                "3"
+            ],
+            "primary_name": "H3",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "21f31a66-0379-49cb-a4c0-c659e3dbc70c"
+}

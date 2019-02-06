@@ -1,0 +1,39 @@
+{
+    "MPN": [
+        false,
+        "CPL-CAP-X5R-0805-100NF-16V"
+    ],
+    "base": "2f50150e-b407-4eda-899c-4a8339af9433",
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        ""
+    ],
+    "entity": "ca83a84f-6183-4088-84b6-5d79b2a119d4",
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "CPn"
+    ],
+    "model": "1d6e9457-6a4d-478f-a2aa-e7745dc2478b",
+    "package": "912ac77a-2d3a-46ce-a60d-18eb7a750a7c",
+    "parametric": {
+        "characteristic": "X5R",
+        "table": "capacitors",
+        "value": "1.000000e-08",
+        "wvdc": "16.0"
+    },
+    "tags": [
+        "cpl"
+    ],
+    "type": "part",
+    "uuid": "1194b1c8-8e72-44c9-a62a-4b7ce3c4550c",
+    "value": [
+        false,
+        "10 µF"
+    ]
+}

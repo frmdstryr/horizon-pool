@@ -1,0 +1,132 @@
+{
+    "MPN": [
+        false,
+        "L6235D"
+    ],
+    "datasheet": [
+        false,
+        "https://www.st.com/content/ccc/resource/technical/document/datasheet/e0/55/d7/b1/d5/06/47/96/CD00002347.pdf/files/CD00002347.pdf/jcr:content/translations/en.CD00002347.pdf"
+    ],
+    "description": [
+        false,
+        "DMOS driver for 3-phase brushless DC motor"
+    ],
+    "entity": "b1082e69-9e5d-41c9-afc2-451383902649",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "ST"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "46282d40-420b-48ad-ad73-624ebe6d8e29",
+    "pad_map": {
+        "14842113-da1e-4a6d-bcf8-d3956a0d9022": {
+            "gate": "cbe2aa65-948c-4ecf-8d2a-5415a69478b3",
+            "pin": "fc00f8a0-ee80-4c09-b268-73eff2e3cc5c"
+        },
+        "20e4c40b-c71b-4193-b49b-20cdb5ad71a4": {
+            "gate": "cbe2aa65-948c-4ecf-8d2a-5415a69478b3",
+            "pin": "11d603f1-d517-40ba-a76d-18e349a10d12"
+        },
+        "222e5146-d4a3-4ff2-82b4-69db5bc03899": {
+            "gate": "cbe2aa65-948c-4ecf-8d2a-5415a69478b3",
+            "pin": "5a87850d-3f77-4cca-a854-1e5fc86a1add"
+        },
+        "3921b523-ef46-4ceb-93da-8d928f163ef1": {
+            "gate": "cbe2aa65-948c-4ecf-8d2a-5415a69478b3",
+            "pin": "175237e7-8295-4c6b-82fe-ed5907e46260"
+        },
+        "4c77cfc4-c631-4a13-ba11-02944bd820d7": {
+            "gate": "cbe2aa65-948c-4ecf-8d2a-5415a69478b3",
+            "pin": "cb2a1adb-7b5c-416f-8a0c-5c11ab3eab7b"
+        },
+        "5d506519-2417-4b5f-a157-2d7be698a934": {
+            "gate": "cbe2aa65-948c-4ecf-8d2a-5415a69478b3",
+            "pin": "6e1c01e8-c0db-4b84-9e48-42271add9fc2"
+        },
+        "62cddf8d-517d-44b3-8d1d-4015d0b1f9d9": {
+            "gate": "cbe2aa65-948c-4ecf-8d2a-5415a69478b3",
+            "pin": "1e370513-0d8c-4902-9a43-9896b322c9be"
+        },
+        "644aa015-5660-4bdc-9d6a-fc5c465c3d56": {
+            "gate": "cbe2aa65-948c-4ecf-8d2a-5415a69478b3",
+            "pin": "1aa15b72-4a01-4072-810e-332f3800419c"
+        },
+        "68760750-79d7-48fa-a8f0-731b63a0ea68": {
+            "gate": "cbe2aa65-948c-4ecf-8d2a-5415a69478b3",
+            "pin": "0bb4a78a-7d58-444c-ba17-66b4300e844a"
+        },
+        "68eb1cbe-cfe6-4060-88fc-c649defadf41": {
+            "gate": "cbe2aa65-948c-4ecf-8d2a-5415a69478b3",
+            "pin": "ef34048f-68a8-4051-bf9a-383188304a9e"
+        },
+        "8d8bcf68-f2b8-4aa6-aa36-e54eb813642e": {
+            "gate": "cbe2aa65-948c-4ecf-8d2a-5415a69478b3",
+            "pin": "75996a17-3036-4fb1-9822-9a4aa0446d48"
+        },
+        "8f32e783-3454-4aa4-94da-4926746bf203": {
+            "gate": "cbe2aa65-948c-4ecf-8d2a-5415a69478b3",
+            "pin": "53925536-90ad-47cd-a9ed-638fca6b95f5"
+        },
+        "910e8fbf-ba01-4ac6-835e-f96aac37ebc5": {
+            "gate": "cbe2aa65-948c-4ecf-8d2a-5415a69478b3",
+            "pin": "693ba077-122f-4b50-b0eb-0d55d4c108c1"
+        },
+        "9223184b-eed8-472d-a6d7-ce55d3332817": {
+            "gate": "cbe2aa65-948c-4ecf-8d2a-5415a69478b3",
+            "pin": "290e1b59-fa04-4356-96ec-3e53dfdf6462"
+        },
+        "97a468ef-84ab-467d-b331-7a837d05caf3": {
+            "gate": "cbe2aa65-948c-4ecf-8d2a-5415a69478b3",
+            "pin": "8c9dc7e5-df56-4049-aac2-103d42aaf5d4"
+        },
+        "a1bcf209-6072-44ce-ab8a-cbb4efa1ea24": {
+            "gate": "cbe2aa65-948c-4ecf-8d2a-5415a69478b3",
+            "pin": "411595b1-cb95-499a-aa50-c67c677db591"
+        },
+        "c2298e9f-409f-443e-97f4-e98ed05c22a7": {
+            "gate": "cbe2aa65-948c-4ecf-8d2a-5415a69478b3",
+            "pin": "93aae212-c514-4190-809c-9b234b2085ec"
+        },
+        "cc55360a-53f7-4085-a2f1-1dc90f285196": {
+            "gate": "cbe2aa65-948c-4ecf-8d2a-5415a69478b3",
+            "pin": "f15a667c-3543-4d69-9841-4b80eea725b2"
+        },
+        "ceb5b834-7ef6-4e80-93ea-fde3d44bba78": {
+            "gate": "cbe2aa65-948c-4ecf-8d2a-5415a69478b3",
+            "pin": "697b418a-e7e0-4c4e-b2a6-596e1e08a885"
+        },
+        "ceeeecfa-a53a-44f6-b0d9-02a5ab1b7a02": {
+            "gate": "cbe2aa65-948c-4ecf-8d2a-5415a69478b3",
+            "pin": "ea52ab99-a3e6-40ba-b3ee-804a65a427b4"
+        },
+        "d42869e3-14c3-48ff-947f-e3b55c982227": {
+            "gate": "cbe2aa65-948c-4ecf-8d2a-5415a69478b3",
+            "pin": "030f89d3-5ff9-44de-9da0-4f4acfb2f50f"
+        },
+        "e7710d32-8b08-413f-b820-471da43df9d6": {
+            "gate": "cbe2aa65-948c-4ecf-8d2a-5415a69478b3",
+            "pin": "a89c034f-cdfe-4e67-98d2-736dee1fdaac"
+        },
+        "f7f085d6-8d08-4717-afd7-70aa0bca0821": {
+            "gate": "cbe2aa65-948c-4ecf-8d2a-5415a69478b3",
+            "pin": "18b2789d-0a17-433b-8e22-e875db1c4775"
+        },
+        "fa613e60-b80e-4a2b-9866-ea97913433fc": {
+            "gate": "cbe2aa65-948c-4ecf-8d2a-5415a69478b3",
+            "pin": "949c607a-ad0f-4c12-b7c6-45c515e5f0b6"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "bldc",
+        "driver"
+    ],
+    "type": "part",
+    "uuid": "7fbbd1cf-5b65-459b-878c-a2143096d566",
+    "value": [
+        false,
+        ""
+    ]
+}

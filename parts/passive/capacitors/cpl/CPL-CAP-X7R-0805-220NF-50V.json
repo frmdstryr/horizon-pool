@@ -1,0 +1,37 @@
+{
+    "MPN": [
+        false,
+        "CPL-CAP-X7R-0805-220NF-50V"
+    ],
+    "base": "2f50150e-b407-4eda-899c-4a8339af9433",
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        ""
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "CPL"
+    ],
+    "model": "89bb5100-388d-405f-b8ec-fd3c9a76f89d",
+    "parametric": {
+        "characteristic": "X7R",
+        "table": "capacitors",
+        "value": "220.000000e-09",
+        "wvdc": "50.0"
+    },
+    "tags": [
+        "cpl"
+    ],
+    "type": "part",
+    "uuid": "2de7a257-7e5f-45fb-a76c-28b26489c6c5",
+    "value": [
+        false,
+        "220 nF"
+    ]
+}

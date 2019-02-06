@@ -1,0 +1,20 @@
+{
+    "gates": {
+        "cbe2aa65-948c-4ecf-8d2a-5415a69478b3": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "21f31a66-0379-49cb-a4c0-c659e3dbc70c"
+        }
+    },
+    "manufacturer": "ST",
+    "name": "L6235",
+    "prefix": "U",
+    "tags": [
+        "bldc",
+        "driver",
+        "motor"
+    ],
+    "type": "entity",
+    "uuid": "b1082e69-9e5d-41c9-afc2-451383902649"
+}
