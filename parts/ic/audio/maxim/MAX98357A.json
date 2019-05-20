@@ -1,0 +1,99 @@
+{
+    "MPN": [
+        false,
+        "MAX98357AETE+T"
+    ],
+    "datasheet": [
+        false,
+        "https://datasheets.maximintegrated.com/en/ds/MAX98357A-MAX98357B.pdf"
+    ],
+    "description": [
+        false,
+        "Amplifier IC 1-Channel (Mono) Class D 16-TQFN (3x3) \tAmplifier IC 1-Channel (Mono) Class D 16-TQFN (3x3)"
+    ],
+    "entity": "1c894964-a3ed-4d9b-9c3a-14b1b7ddcd56",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Maxim Integrated"
+    ],
+    "model": "324c5a34-fd60-46c7-bc03-4c90d57cd3f8",
+    "package": "ab7248f3-d550-434e-9f97-8ada46b09804",
+    "pad_map": {
+        "01f1e369-1c09-4814-b1db-c74796494321": {
+            "gate": "457ce973-11ee-4a35-9ab9-92c5b923061b",
+            "pin": "81f6f3f4-71d0-4a69-bb3f-8b3aa666aebc"
+        },
+        "0a48ff9a-4daf-41ab-90bf-a79ee6a9927a": {
+            "gate": "457ce973-11ee-4a35-9ab9-92c5b923061b",
+            "pin": "8c378e4b-adde-43f7-96f5-be9fccee71de"
+        },
+        "1525a70a-9005-4b7f-9aba-ab9e9b70ae9b": {
+            "gate": "457ce973-11ee-4a35-9ab9-92c5b923061b",
+            "pin": "2d638bf4-ffaa-4bfa-ad61-1c7f6f0b40b2"
+        },
+        "1d4d1b68-abe0-4666-ab40-84335a41c0ef": {
+            "gate": "457ce973-11ee-4a35-9ab9-92c5b923061b",
+            "pin": "343f0e62-93f0-407a-af33-b1a01d60c694"
+        },
+        "521f5fa1-3693-4acf-b06b-b6a9b8a5cf30": {
+            "gate": "457ce973-11ee-4a35-9ab9-92c5b923061b",
+            "pin": "468c64e2-7e67-4fde-bacd-ba26d51e803d"
+        },
+        "52b8e909-69c1-408f-a75e-59cab89a69d1": {
+            "gate": "457ce973-11ee-4a35-9ab9-92c5b923061b",
+            "pin": "6c0a4a4d-9d7f-4094-89a9-acd59d211adf"
+        },
+        "58f45942-ee32-47fd-9e4e-a16c1ae6cd8b": {
+            "gate": "457ce973-11ee-4a35-9ab9-92c5b923061b",
+            "pin": "021d089f-e089-4bd2-bbd6-8b57e6e41bc0"
+        },
+        "6233a030-3666-4de7-b3a8-4fda13d22ac3": {
+            "gate": "457ce973-11ee-4a35-9ab9-92c5b923061b",
+            "pin": "348c1155-b349-44ac-987f-4cdc5a03f3ac"
+        },
+        "67155d1b-c7e3-4893-b885-21572fe62676": {
+            "gate": "457ce973-11ee-4a35-9ab9-92c5b923061b",
+            "pin": "dd034d6c-4fd3-4198-9d2c-2f9b28802421"
+        },
+        "770160ad-3e45-431c-8833-d1a3005649ba": {
+            "gate": "457ce973-11ee-4a35-9ab9-92c5b923061b",
+            "pin": "2526795b-139f-4a42-a879-39fc6688cfac"
+        },
+        "9e2ab086-173e-490f-b4e6-4814dea81b13": {
+            "gate": "457ce973-11ee-4a35-9ab9-92c5b923061b",
+            "pin": "3eab260e-d0df-44f6-9189-8499a5e16f95"
+        },
+        "a91890ed-7ab1-47b2-8fff-533d034fad8f": {
+            "gate": "457ce973-11ee-4a35-9ab9-92c5b923061b",
+            "pin": "6b84679f-c54d-4614-b9f2-b3abf92e6b99"
+        },
+        "ac26fbcb-be68-48ca-a9b5-3b411577d83a": {
+            "gate": "457ce973-11ee-4a35-9ab9-92c5b923061b",
+            "pin": "7282055e-3824-485e-890e-35e518a5fc3b"
+        },
+        "bbd532ef-1e8d-40aa-ad15-b064324d790c": {
+            "gate": "457ce973-11ee-4a35-9ab9-92c5b923061b",
+            "pin": "194e66c5-7119-4178-b4d3-296d7aa2cf5d"
+        },
+        "ec3aadbd-1165-4ac6-8d9d-64849d04e9cb": {
+            "gate": "457ce973-11ee-4a35-9ab9-92c5b923061b",
+            "pin": "a9518029-7270-4212-9e5d-ba7dc2d944d7"
+        },
+        "f70e0953-30c0-433b-b807-1b7e5458b58b": {
+            "gate": "457ce973-11ee-4a35-9ab9-92c5b923061b",
+            "pin": "450cc396-b99e-4733-8e7e-dd2dd39ccc74"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "audio"
+    ],
+    "type": "part",
+    "uuid": "7fb3278d-4711-4b25-87a6-428e05dd75fb",
+    "value": [
+        false,
+        ""
+    ]
+}

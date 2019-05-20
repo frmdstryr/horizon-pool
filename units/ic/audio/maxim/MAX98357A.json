@@ -1,0 +1,104 @@
+{
+    "manufacturer": "Maxim Integrated",
+    "name": "MAX98357A",
+    "pins": {
+        "021d089f-e089-4bd2-bbd6-8b57e6e41bc0": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "194e66c5-7119-4178-b4d3-296d7aa2cf5d": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "LRCLK",
+            "swap_group": 0
+        },
+        "2526795b-139f-4a42-a879-39fc6688cfac": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD",
+            "swap_group": 0
+        },
+        "2d638bf4-ffaa-4bfa-ad61-1c7f6f0b40b2": {
+            "direction": "not_connected",
+            "names": [],
+            "primary_name": "N.C.",
+            "swap_group": 0
+        },
+        "343f0e62-93f0-407a-af33-b1a01d60c694": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "OUTN",
+            "swap_group": 0
+        },
+        "348c1155-b349-44ac-987f-4cdc5a03f3ac": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DIN",
+            "swap_group": 0
+        },
+        "3eab260e-d0df-44f6-9189-8499a5e16f95": {
+            "direction": "not_connected",
+            "names": [],
+            "primary_name": "N.C.",
+            "swap_group": 0
+        },
+        "450cc396-b99e-4733-8e7e-dd2dd39ccc74": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "468c64e2-7e67-4fde-bacd-ba26d51e803d": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD",
+            "swap_group": 0
+        },
+        "6b84679f-c54d-4614-b9f2-b3abf92e6b99": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "BCLK",
+            "swap_group": 0
+        },
+        "6c0a4a4d-9d7f-4094-89a9-acd59d211adf": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "OUTP",
+            "swap_group": 0
+        },
+        "7282055e-3824-485e-890e-35e518a5fc3b": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "GAIN_SLOT",
+            "swap_group": 0
+        },
+        "81f6f3f4-71d0-4a69-bb3f-8b3aa666aebc": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "8c378e4b-adde-43f7-96f5-be9fccee71de": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SD_MODE",
+            "swap_group": 0
+        },
+        "a9518029-7270-4212-9e5d-ba7dc2d944d7": {
+            "direction": "not_connected",
+            "names": [],
+            "primary_name": "N.C.",
+            "swap_group": 0
+        },
+        "dd034d6c-4fd3-4198-9d2c-2f9b28802421": {
+            "direction": "not_connected",
+            "names": [],
+            "primary_name": "N.C.",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "7ed8e0cd-8349-4e82-8331-0bbc5d73b23c"
+}

@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "457ce973-11ee-4a35-9ab9-92c5b923061b": {
+            "name": "",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "7ed8e0cd-8349-4e82-8331-0bbc5d73b23c"
+        }
+    },
+    "manufacturer": "Maxim Integrated",
+    "name": "MAX98357A",
+    "prefix": "U",
+    "tags": [
+        "amp",
+        "audio"
+    ],
+    "type": "entity",
+    "uuid": "1c894964-a3ed-4d9b-9c3a-14b1b7ddcd56"
+}

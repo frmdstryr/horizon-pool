@@ -1,0 +1,48 @@
+{
+    "MPN": [
+        false,
+        "SRR1260A-470M"
+    ],
+    "datasheet": [
+        false,
+        "https://www.bourns.com/docs/Product-Datasheets/SRR1260A.pdf"
+    ],
+    "description": [
+        false,
+        "SRR1260A Series - Shielded Power Inductors"
+    ],
+    "entity": "1d534e1d-704a-4d44-a6e6-c6106a2827ab",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Bourns"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "f448d705-8265-4c47-9d28-253d094527ad",
+    "pad_map": {
+        "0965bee5-e233-4b1f-a14a-b19d1475f70f": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "6a44037c-65e2-4876-9359-42890048841d"
+        },
+        "5bfc5c56-fc6b-4ad3-9baa-12baf6790c14": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "dda0ec99-5d70-4fbe-a8db-897542e7554e"
+        }
+    },
+    "parametric": {
+        "dcr": "0.86",
+        "idc": "2.6",
+        "table": "inductors",
+        "value": "4.7e-05"
+    },
+    "tags": [
+        "inductor"
+    ],
+    "type": "part",
+    "uuid": "a94ba3e1-d98c-42e3-9052-8cda0e432cb6",
+    "value": [
+        false,
+        "47uH"
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "MPN": [
+        false,
+        "L78M05CDT-TR"
+    ],
+    "datasheet": [
+        false,
+        "http://www.st.com/content/ccc/resource/technical/document/datasheet/d7/5f/dc/5c/d5/b6/48/7c/CD00000447.pdf/files/CD00000447.pdf/jcr:content/translations/en.CD00000447.pdf"
+    ],
+    "description": [
+        false,
+        "Linear Voltage Regulator IC Positive Fixed 1 Output 500mA DPAK"
+    ],
+    "entity": "1d0055e8-b654-4bb9-b3e2-5ad87079ecca",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "STMicroelectronics"
+    ],
+    "model": "9c4fd6f4-e732-4282-bb78-8d3177bd824f",
+    "package": "8e50fcd8-23cc-4354-bbb6-cb7b17c90063",
+    "pad_map": {
+        "0c3c06b4-c038-4068-a8f4-d860ce66b31b": {
+            "gate": "8b4c20d8-37fd-40a5-8239-db8803c0baa0",
+            "pin": "20f0495c-5e6e-4975-b440-1399ca09d3c3"
+        },
+        "94d558f7-5b14-4ce6-8e68-eee3fb41f35d": {
+            "gate": "8b4c20d8-37fd-40a5-8239-db8803c0baa0",
+            "pin": "559d5e91-2169-486b-9ece-8db9867957dd"
+        },
+        "ab158679-6340-4202-89b5-d70fbd472cff": {
+            "gate": "8b4c20d8-37fd-40a5-8239-db8803c0baa0",
+            "pin": "304699c2-7433-4b03-ad2c-c8df631dd06f"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "regulator"
+    ],
+    "type": "part",
+    "uuid": "1b7d4db3-cf55-4ef3-86fa-01c7073ced50",
+    "value": [
+        false,
+        "5 V"
+    ]
+}

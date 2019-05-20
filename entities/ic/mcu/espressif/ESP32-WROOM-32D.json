@@ -1,0 +1,20 @@
+{
+    "gates": {
+        "7613b45f-0056-4056-a531-184bfac6b957": {
+            "name": "",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "e3a38db0-2c03-4a05-8b2f-c3f6d7449996"
+        }
+    },
+    "manufacturer": "Espressif Systems",
+    "name": "ESP32-WROOM-32D",
+    "prefix": "U",
+    "tags": [
+        "bluetooth",
+        "mcu",
+        "wifi"
+    ],
+    "type": "entity",
+    "uuid": "7c9f642f-9432-4777-a1f0-5ae292f14fc8"
+}

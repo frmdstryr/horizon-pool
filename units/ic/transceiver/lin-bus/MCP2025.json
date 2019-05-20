@@ -1,0 +1,62 @@
+{
+    "manufacturer": "Microchip",
+    "name": "MCP2025",
+    "pins": {
+        "035d9fdc-b5cb-4461-9f62-a615e3ff7ad8": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "RESET",
+            "swap_group": 0
+        },
+        "050353f6-56b4-4371-87c5-119e010bb420": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "TXD",
+            "swap_group": 0
+        },
+        "2fc7702f-fa80-4971-aac6-6f4ce86355a5": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "VREG",
+            "swap_group": 0
+        },
+        "326c828c-83bf-4f3f-9e20-72993937dde6": {
+            "direction": "power_input",
+            "names": [
+                "V+"
+            ],
+            "primary_name": "VBB",
+            "swap_group": 0
+        },
+        "c7aa98b3-8faa-49b2-8377-7a11d16c6040": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CS/WAKE",
+            "swap_group": 0
+        },
+        "eb0e0f26-3a7b-44ec-ad0a-f5c6bf5e7330": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "RXD",
+            "swap_group": 0
+        },
+        "f9744e80-23b8-4afe-aeb3-78b64f6dcc44": {
+            "direction": "bidirectional",
+            "names": [
+                "CAN"
+            ],
+            "primary_name": "LBUS",
+            "swap_group": 0
+        },
+        "faec2c19-04b1-486b-a85a-3ce7ceca4784": {
+            "direction": "power_input",
+            "names": [
+                "V-"
+            ],
+            "primary_name": "VSS",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "ed92fecb-82f1-4d41-b8d1-6244c0e05ba8"
+}

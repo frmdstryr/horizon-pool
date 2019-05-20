@@ -1,0 +1,152 @@
+{
+    "manufacturer": "Texas Instruments",
+    "name": "DRV10987S",
+    "pins": {
+        "0789911e-9244-485f-a6cb-245675d1637b": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SCL",
+            "swap_group": 0
+        },
+        "2236a1c6-a284-49e8-b4ca-66365dbf7407": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "V",
+            "swap_group": 0
+        },
+        "367db7bf-0490-46b2-834e-b7bb92af8e71": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DIR",
+            "swap_group": 0
+        },
+        "3f79b2f0-255b-4c81-9906-5a339ecb3a4f": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "VCP",
+            "swap_group": 0
+        },
+        "534a10bc-adc5-4a82-a5b8-6aeddea5897e": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "CPP",
+            "swap_group": 0
+        },
+        "59598ffb-cf44-4c5b-9c87-d0ee8d0c0a98": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "U",
+            "swap_group": 0
+        },
+        "59ec479e-8ae2-4a4f-923e-75add80ff276": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "W",
+            "swap_group": 0
+        },
+        "61060945-f3a2-401d-bd19-367395ce195b": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "V",
+            "swap_group": 0
+        },
+        "6c295f2e-db09-4e2b-8b8e-37f8616f48ea": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SDA",
+            "swap_group": 0
+        },
+        "7384acce-f8f1-494e-9828-1b1f21a201a6": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "CPN",
+            "swap_group": 0
+        },
+        "73f77e06-9dcd-4215-bd95-cbc79de94cac": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "V3P3",
+            "swap_group": 0
+        },
+        "8443fed2-1bf4-40fd-99cd-2c89f6a17329": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCC",
+            "swap_group": 0
+        },
+        "893dbeee-f43f-465f-99dc-1c95edd6093e": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "VREG",
+            "swap_group": 0
+        },
+        "9f5bd9f0-2234-48b4-aee7-0e0201951473": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "PGND",
+            "swap_group": 0
+        },
+        "a9122643-3618-47b3-b050-cb13b65c498a": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "W",
+            "swap_group": 0
+        },
+        "b581c704-8c14-4656-9b5d-42fc64c2d926": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "V1P8",
+            "swap_group": 0
+        },
+        "b6947fda-0f2c-4d09-ad5b-7da53cc209e4": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "FG",
+            "swap_group": 0
+        },
+        "ba0cbd3a-8682-417f-ba18-e564589649fd": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCC",
+            "swap_group": 0
+        },
+        "be7037ed-331a-424b-ac7d-60d4eab7a843": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "bf500031-b3de-4b6c-b317-21b6d709c624": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "SWGND",
+            "swap_group": 0
+        },
+        "c7eb96aa-2d8f-42ca-b222-f77d5f0b20c1": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "U",
+            "swap_group": 0
+        },
+        "d3629744-4b4e-4106-8bd5-105b885c0579": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "SW",
+            "swap_group": 0
+        },
+        "deec4d23-db82-4ee7-9f4a-e1783bccf7d2": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SPEED",
+            "swap_group": 0
+        },
+        "ef47649c-0ae1-4ae3-89cd-23fe1869a3c9": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "PGND",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "450aee64-8d98-4a68-80ac-a466e1c3da19"
+}

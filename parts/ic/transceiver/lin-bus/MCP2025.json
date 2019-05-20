@@ -1,0 +1,65 @@
+{
+    "MPN": [
+        false,
+        "MCP2025-330E/SN"
+    ],
+    "datasheet": [
+        false,
+        "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en558630"
+    ],
+    "description": [
+        false,
+        "1/1 Transceiver Half LINbus 8-SOIC"
+    ],
+    "entity": "f50e71c5-7ec3-4ab8-adfa-3769e45de26e",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Microchip"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "0932e22e-0cf7-46dc-b09c-4cc761a67608",
+    "pad_map": {
+        "17341892-a120-44e2-97ea-6e4f8e3d7da5": {
+            "gate": "2d489e4d-4338-41ef-9789-2d178432e764",
+            "pin": "c7aa98b3-8faa-49b2-8377-7a11d16c6040"
+        },
+        "29f18ab8-6cea-44fc-9bf5-4fb888f5245b": {
+            "gate": "2d489e4d-4338-41ef-9789-2d178432e764",
+            "pin": "f9744e80-23b8-4afe-aeb3-78b64f6dcc44"
+        },
+        "3d725e25-0d60-46cb-a21f-82462d3ce156": {
+            "gate": "2d489e4d-4338-41ef-9789-2d178432e764",
+            "pin": "035d9fdc-b5cb-4461-9f62-a615e3ff7ad8"
+        },
+        "51d7c05f-acae-46d5-9c26-2ea9d17bf7a8": {
+            "gate": "2d489e4d-4338-41ef-9789-2d178432e764",
+            "pin": "326c828c-83bf-4f3f-9e20-72993937dde6"
+        },
+        "68b17b6f-ab52-4c2b-9389-c36d3c06eeef": {
+            "gate": "2d489e4d-4338-41ef-9789-2d178432e764",
+            "pin": "faec2c19-04b1-486b-a85a-3ce7ceca4784"
+        },
+        "6f82c7c4-9578-4cb0-a92c-8b09534d5dc9": {
+            "gate": "2d489e4d-4338-41ef-9789-2d178432e764",
+            "pin": "eb0e0f26-3a7b-44ec-ad0a-f5c6bf5e7330"
+        },
+        "82d773fb-4473-4bd9-a879-a6ca2756055c": {
+            "gate": "2d489e4d-4338-41ef-9789-2d178432e764",
+            "pin": "050353f6-56b4-4371-87c5-119e010bb420"
+        },
+        "b9ad4acf-f78d-438d-8b7b-e83ee0f9cc19": {
+            "gate": "2d489e4d-4338-41ef-9789-2d178432e764",
+            "pin": "2fc7702f-fa80-4971-aac6-6f4ce86355a5"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "de86c225-4f76-408b-874b-03b56347a6ad",
+    "value": [
+        false,
+        ""
+    ]
+}

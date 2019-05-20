@@ -18,12 +18,12 @@
         false,
         "CPn"
     ],
-    "model": "6184638c-1d94-4cd0-83f3-ed2a4c692cc3",
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
     "parametric": {
-        "characteristic": "X5R",
         "table": "capacitors",
-        "value": "1.000000e-08",
-        "wvdc": "16.0"
+        "type": "X5R",
+        "value": "1e-08",
+        "wvdc": "16"
     },
     "tags": [
         "cpl"
@@ -32,6 +32,6 @@
     "uuid": "ca21fe24-9bc5-4d77-97d4-0b0cb53ad9b0",
     "value": [
         false,
-        "10 µF"
+        "10 nF"
     ]
 }

@@ -1,0 +1,41 @@
+{
+    "MPN": [
+        false,
+        "SF18M-TP"
+    ],
+    "datasheet": [
+        false,
+        "https://media.digikey.com/pdf/Data%20Sheets/Micro%20Commercial%20PDFs/SM11M-SF18M_RevB_01-01-13.pdf"
+    ],
+    "description": [
+        false,
+        "Diode Standard 600V 1A Surface Mount DO-214AC (HSMA) ES1J"
+    ],
+    "entity": "c44a773c-cdf5-4193-b5be-ab54952f3f28",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Micro Commercial Co"
+    ],
+    "model": "9191c081-b934-4c52-be70-c15d3f276956",
+    "package": "cbc12b97-236c-437e-84ef-a99dc1058811",
+    "pad_map": {
+        "4b55fc62-3250-4b00-a3dd-162820af3522": {
+            "gate": "e5da453c-ba97-4fa0-8e05-5f6b4e026f87",
+            "pin": "16ee5a5c-8eea-4447-ad48-04d973776e3a"
+        },
+        "65da24be-03af-42af-86c1-729b248ed1a0": {
+            "gate": "e5da453c-ba97-4fa0-8e05-5f6b4e026f87",
+            "pin": "b57ca2a1-1bbf-43f0-b0a0-bf953094a8de"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "8898189e-7a1b-4a8f-95c5-1cc7ceaa771d",
+    "value": [
+        false,
+        ""
+    ]
+}

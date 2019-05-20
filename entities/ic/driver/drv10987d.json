@@ -1,0 +1,20 @@
+{
+    "gates": {
+        "bf3bf81f-578b-4a10-b4c1-6381eff0df31": {
+            "name": "DRV10987S",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "450aee64-8d98-4a68-80ac-a466e1c3da19"
+        }
+    },
+    "manufacturer": "Texas Instruments",
+    "name": "DRV10987S",
+    "prefix": "",
+    "tags": [
+        "bldc",
+        "driver",
+        "motor"
+    ],
+    "type": "entity",
+    "uuid": "3b91a1cb-f98d-4cac-b234-754b907b7743"
+}
