@@ -1,0 +1,45 @@
+{
+    "MPN": [
+        false,
+        "BL24B28-04"
+    ],
+    "datasheet": [
+        false,
+        "https://www.linengineering.com/products/bldc-motors/bldc-nema-23/"
+    ],
+    "description": [
+        false,
+        "Nema 23 BLDC Motor 4000 RPM 3.9A 36V"
+    ],
+    "entity": "c799c724-f64c-4092-b45a-a0844d0d0f99",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "LIN Engineering"
+    ],
+    "model": "84ec8229-d872-42f8-bfcc-96938ff02bd1",
+    "package": "9103c334-3f16-47e9-ab2b-a9700763c47f",
+    "pad_map": {
+        "7bc2147a-0234-41f6-ab65-444e57a43ce5": {
+            "gate": "aaaf82ed-aa74-4828-97f5-d9e572305e20",
+            "pin": "073bea2e-fb4f-4349-927c-c5cf2b7049e1"
+        },
+        "7de8ad61-d839-4bad-85e8-5b3d093d4d6c": {
+            "gate": "aaaf82ed-aa74-4828-97f5-d9e572305e20",
+            "pin": "c1f966e6-581b-4677-b597-80fef24c37a6"
+        },
+        "f4f2991b-d46c-492e-b2b6-beacc3120e00": {
+            "gate": "aaaf82ed-aa74-4828-97f5-d9e572305e20",
+            "pin": "ee47418b-f881-4246-89c0-5a310eb92966"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "526a877e-41fa-493f-be89-872f0c979b0d",
+    "value": [
+        false,
+        ""
+    ]
+}

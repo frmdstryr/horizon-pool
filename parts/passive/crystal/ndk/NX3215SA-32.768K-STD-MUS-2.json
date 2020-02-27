@@ -1,0 +1,46 @@
+{
+    "MPN": [
+        false,
+        "NX3215SA-32.768K-STD-MUS-2"
+    ],
+    "datasheet": [
+        false,
+        "https://www.ndk.com/images/products/catalog/c_NX3215SA-STD-MUA-14_e.pdf"
+    ],
+    "description": [
+        false,
+        "32.768kHz ±20ppm Crystal 12.5pF 70 kOhms 2-SMD, No Lead"
+    ],
+    "entity": "5159b99a-7b6d-48f7-8588-d0b503cdd8d8",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "NDK"
+    ],
+    "model": "f1f47486-435a-468d-9491-56d9532fa509",
+    "orderable_MPNs": {
+        "8a6406f5-c6d5-4d87-8d05-358f35651265": "NX3215SA-32.768K-STD-MUS-2"
+    },
+    "package": "129e2dea-e580-4f09-921b-7930a456909b",
+    "pad_map": {
+        "1543a39e-1053-42a5-b385-3d66411d6244": {
+            "gate": "2a1bd72d-6d14-48c7-94d4-91d36e7a56c6",
+            "pin": "29995253-b4b1-4c7c-a049-b6db2713ca7c"
+        },
+        "72914cce-191c-47a2-b453-cd72eaa4dec9": {
+            "gate": "2a1bd72d-6d14-48c7-94d4-91d36e7a56c6",
+            "pin": "852f1fe6-06dc-4661-8a14-61a9a6ebb26a"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "crystal"
+    ],
+    "type": "part",
+    "uuid": "6989cacf-b09a-4920-90c8-a6ef2ca5e02b",
+    "value": [
+        false,
+        "32.768K"
+    ]
+}

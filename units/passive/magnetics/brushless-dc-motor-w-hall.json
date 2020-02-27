@@ -1,0 +1,56 @@
+{
+    "manufacturer": "Generic",
+    "name": "BLDC Motor with Hall Sensors",
+    "pins": {
+        "073bea2e-fb4f-4349-927c-c5cf2b7049e1": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "U",
+            "swap_group": 0
+        },
+        "15e362da-10b7-464f-ac59-bce9fb9c9d1f": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "181887a1-146e-4c12-a7a9-606e00f67c97": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "H3",
+            "swap_group": 0
+        },
+        "8bfad00c-a421-4b3c-883b-638fa92a6b20": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "H1",
+            "swap_group": 0
+        },
+        "c1f966e6-581b-4677-b597-80fef24c37a6": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "W",
+            "swap_group": 0
+        },
+        "ea363f73-9bae-473e-ac5a-8130fd02b74d": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "V+",
+            "swap_group": 0
+        },
+        "ee47418b-f881-4246-89c0-5a310eb92966": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "V",
+            "swap_group": 0
+        },
+        "fb1e6d91-dd25-4d0f-9813-df21b0b30267": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "H2",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "b9460764-634e-4727-8f76-fdd6159beeeb"
+}

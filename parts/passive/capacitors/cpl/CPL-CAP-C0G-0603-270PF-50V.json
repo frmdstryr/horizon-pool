@@ -1,0 +1,37 @@
+{
+    "MPN": [
+        false,
+        "CPL-CAP-C0G-0603-270PF-50V"
+    ],
+    "base": "436da8ee-a0a4-4ab4-ae41-10323bb580e5",
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        ""
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "CPL"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "parametric": {
+        "table": "capacitors",
+        "type": "C0G/NP0",
+        "value": "2.7e-10",
+        "wvdc": "50"
+    },
+    "tags": [
+        "cpl"
+    ],
+    "type": "part",
+    "uuid": "4854d74a-78bc-4085-9878-d33f6baea254",
+    "value": [
+        false,
+        "270 pF"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "aaaf82ed-aa74-4828-97f5-d9e572305e20": {
+            "name": "",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "702b194c-9225-4976-91f6-d999500a808e"
+        }
+    },
+    "manufacturer": "LIN Engineering",
+    "name": "BL24B28-04",
+    "prefix": "M",
+    "tags": [
+        "bldc",
+        "motor"
+    ],
+    "type": "entity",
+    "uuid": "c799c724-f64c-4092-b45a-a0844d0d0f99"
+}

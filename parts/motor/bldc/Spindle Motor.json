@@ -1,0 +1,65 @@
+{
+    "MPN": [
+        false,
+        "Spindle Motor"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Generic Spindle Motor with Hall"
+    ],
+    "entity": "8498e1e1-91f8-4ed5-b224-50a26e9c5155",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Generic"
+    ],
+    "model": "84ec8229-d872-42f8-bfcc-96938ff02bd1",
+    "package": "830a5502-5557-48d7-9890-0aa9a9f12e5d",
+    "pad_map": {
+        "37ad2e38-76ac-4a0b-adf3-2500e30336a0": {
+            "gate": "bae0b926-8cfe-4b10-b400-0dc4e0327b6c",
+            "pin": "15e362da-10b7-464f-ac59-bce9fb9c9d1f"
+        },
+        "3cde8013-3885-4310-90b0-85740b7a45b4": {
+            "gate": "bae0b926-8cfe-4b10-b400-0dc4e0327b6c",
+            "pin": "8bfad00c-a421-4b3c-883b-638fa92a6b20"
+        },
+        "7bc2147a-0234-41f6-ab65-444e57a43ce5": {
+            "gate": "bae0b926-8cfe-4b10-b400-0dc4e0327b6c",
+            "pin": "c1f966e6-581b-4677-b597-80fef24c37a6"
+        },
+        "7de8ad61-d839-4bad-85e8-5b3d093d4d6c": {
+            "gate": "bae0b926-8cfe-4b10-b400-0dc4e0327b6c",
+            "pin": "ea363f73-9bae-473e-ac5a-8130fd02b74d"
+        },
+        "a43c1c45-4e2c-4164-990b-5719d05d21b4": {
+            "gate": "bae0b926-8cfe-4b10-b400-0dc4e0327b6c",
+            "pin": "ee47418b-f881-4246-89c0-5a310eb92966"
+        },
+        "ccf92a7d-63f1-40bd-918f-da246deb854a": {
+            "gate": "bae0b926-8cfe-4b10-b400-0dc4e0327b6c",
+            "pin": "fb1e6d91-dd25-4d0f-9813-df21b0b30267"
+        },
+        "f4f2991b-d46c-492e-b2b6-beacc3120e00": {
+            "gate": "bae0b926-8cfe-4b10-b400-0dc4e0327b6c",
+            "pin": "073bea2e-fb4f-4349-927c-c5cf2b7049e1"
+        },
+        "f5ac41ed-7d82-44b2-8d6b-a60285ac3e7b": {
+            "gate": "bae0b926-8cfe-4b10-b400-0dc4e0327b6c",
+            "pin": "181887a1-146e-4c12-a7a9-606e00f67c97"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "df0811b6-4d5e-44aa-9866-6d222c466cd1",
+    "value": [
+        false,
+        ""
+    ]
+}

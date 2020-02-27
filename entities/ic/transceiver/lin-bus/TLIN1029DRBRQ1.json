@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "01c4183f-0379-417b-b4b2-7f18d86dc8a8": {
+            "name": "",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "7aa9a35a-1549-47fb-a4d0-947391ed2d8f"
+        }
+    },
+    "manufacturer": "Texas Instruments",
+    "name": "TLIN1029DRBRQ1",
+    "prefix": "U",
+    "tags": [],
+    "type": "entity",
+    "uuid": "39769d78-d91e-4534-a693-a937c1fb3235"
+}

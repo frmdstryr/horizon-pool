@@ -1,0 +1,617 @@
+{
+    "arcs": {
+        "2905ce23-41cb-47d0-a726-57d90d526c40": {
+            "center": "e79d4502-78e8-4a91-a1fa-48443089a7f2",
+            "from": "292c4371-d8ec-4779-8e86-df24d0c3037d",
+            "layer": 0,
+            "to": "346c6d41-6a7e-4efd-a1ad-32ef180224ec",
+            "width": 0
+        },
+        "2e48ca76-d7f8-4a13-8a58-985952928fd2": {
+            "center": "4f028c77-ea0a-491d-a761-d4126efb0cb8",
+            "from": "dadf5e30-207d-4577-ab43-c3b7fc4cd406",
+            "layer": 0,
+            "to": "ef50ba5f-042e-4fb3-8d42-062a2c9e7e7a",
+            "width": 0
+        },
+        "3261964d-6b67-4aa9-917c-96350398a292": {
+            "center": "d165ca80-a0b0-4cca-86a1-4f2a19292c8f",
+            "from": "7a969b90-e854-4a96-abeb-c2eea2b4c272",
+            "layer": 0,
+            "to": "053541a8-6921-4da5-b0c8-605c4f711168",
+            "width": 0
+        },
+        "3322c3b8-fdf8-4bef-b1d2-9aa4fb4066c0": {
+            "center": "bc87f272-297e-44de-ad1d-f9abeda135a9",
+            "from": "b556995b-241b-44f6-b96c-e130d8f642b6",
+            "layer": 0,
+            "to": "50336ce8-b108-4943-8c17-2146e41582c7",
+            "width": 0
+        },
+        "3cd1e243-e370-476f-a962-f24d486809f8": {
+            "center": "9f7928c6-3e93-4639-80ca-2324b7c23667",
+            "from": "2d1fd0f0-7189-4454-98e5-3115c146da49",
+            "layer": 0,
+            "to": "12275fff-6bdd-4113-acd0-0248c5a5005a",
+            "width": 0
+        },
+        "61f5e17e-6030-4f64-8aae-9e6c3f61801c": {
+            "center": "bc69f0db-f486-4c0a-9046-40e5dbebfc8b",
+            "from": "c3eddaae-186c-4a52-b6ef-7ba63fd2c9b2",
+            "layer": 0,
+            "to": "7a969b90-e854-4a96-abeb-c2eea2b4c272",
+            "width": 0
+        },
+        "a040a9d2-5661-4f74-af13-ca82704f0849": {
+            "center": "db47e8c9-7092-4137-82f9-f5bb05794d4e",
+            "from": "0d93aefd-c883-470c-8cf6-9809d4bf1982",
+            "layer": 0,
+            "to": "5f8240fc-b53a-4215-a297-c9f35f6de486",
+            "width": 0
+        },
+        "a79c09f7-0f84-4867-aa01-0fc55a5247d4": {
+            "center": "1e77d24d-0cb2-406f-abf7-7edfa1c3ad6f",
+            "from": "053541a8-6921-4da5-b0c8-605c4f711168",
+            "layer": 0,
+            "to": "dadf5e30-207d-4577-ab43-c3b7fc4cd406",
+            "width": 0
+        },
+        "b98177ee-ebcd-4fd9-97fb-4ed5309570b1": {
+            "center": "2eb9fdd7-f60d-4265-afd3-2025edb4beab",
+            "from": "bf9abb88-bc6c-41e9-877c-f3fe24e961ec",
+            "layer": 0,
+            "to": "b556995b-241b-44f6-b96c-e130d8f642b6",
+            "width": 0
+        },
+        "da6148ae-3fe1-4a25-9b5e-090edf572fb8": {
+            "center": "ead4f784-a2b7-4133-965e-0971f04b5d74",
+            "from": "3de45608-b5ae-413e-aac5-8ad3858ac01d",
+            "layer": 0,
+            "to": "5e1b5fa6-1cef-49a9-bb0d-8397bc6f255e",
+            "width": 0
+        },
+        "e2e28eb3-4526-4b72-bacd-a85a92c09ac3": {
+            "center": "0cd4a36b-effa-4ed3-a668-0fc65d7aeabc",
+            "from": "12275fff-6bdd-4113-acd0-0248c5a5005a",
+            "layer": 0,
+            "to": "05252062-7a74-44ef-9ba6-4ada45b858c3",
+            "width": 0
+        },
+        "f2aef75e-8e60-4991-a58d-69b6e7ff37ef": {
+            "center": "ef7c92d4-2ff8-4988-8503-95e78f335834",
+            "from": "fa9a3489-f6a8-4af4-a764-ca1685ccff38",
+            "layer": 0,
+            "to": "e7e543dc-fa06-4310-8afc-0b0d3cf295fb",
+            "width": 0
+        },
+        "f2ed918c-5fc8-4eaa-8395-545cefec4831": {
+            "center": "232eaef4-0f0c-4a93-a885-29e3ae98e2c5",
+            "from": "50336ce8-b108-4943-8c17-2146e41582c7",
+            "layer": 0,
+            "to": "0d93aefd-c883-470c-8cf6-9809d4bf1982",
+            "width": 0
+        },
+        "fac46bbf-db7a-4712-a8ba-679ad4c15b73": {
+            "center": "cc969b4b-9c9d-4704-a540-d1206f7a484b",
+            "from": "05252062-7a74-44ef-9ba6-4ada45b858c3",
+            "layer": 0,
+            "to": "292c4371-d8ec-4779-8e86-df24d0c3037d",
+            "width": 0
+        }
+    },
+    "can_expand": false,
+    "junctions": {
+        "05252062-7a74-44ef-9ba6-4ada45b858c3": {
+            "position": [
+                3153386,
+                -3169278
+            ]
+        },
+        "053541a8-6921-4da5-b0c8-605c4f711168": {
+            "position": [
+                3124794,
+                3252528
+            ]
+        },
+        "0a1dfd04-d455-4118-9ac2-11a41edd52ab": {
+            "position": [
+                -8750000,
+                -6250000
+            ]
+        },
+        "0cd4a36b-effa-4ed3-a668-0fc65d7aeabc": {
+            "position": [
+                3465869,
+                -3710554
+            ]
+        },
+        "0d93aefd-c883-470c-8cf6-9809d4bf1982": {
+            "position": [
+                -3624049,
+                -21782
+            ]
+        },
+        "12275fff-6bdd-4113-acd0-0248c5a5005a": {
+            "position": [
+                3778351,
+                -4251829
+            ]
+        },
+        "1e77d24d-0cb2-406f-abf7-7edfa1c3ad6f": {
+            "position": [
+                2812259,
+                2711283
+            ]
+        },
+        "232eaef4-0f0c-4a93-a885-29e3ae98e2c5": {
+            "position": [
+                -2999049,
+                -21782
+            ]
+        },
+        "28c73abd-80a7-4da2-88ad-6d6693b18a82": {
+            "position": [
+                4375000,
+                -5000000
+            ]
+        },
+        "292c4371-d8ec-4779-8e86-df24d0c3037d": {
+            "position": [
+                2528420,
+                -2086726
+            ]
+        },
+        "2d1fd0f0-7189-4454-98e5-3115c146da49": {
+            "position": [
+                4403317,
+                -5334382
+            ]
+        },
+        "2eb973ce-f9d3-4d86-9211-40ef358ec44a": {
+            "position": [
+                1375948,
+                -21782
+            ]
+        },
+        "2eb9fdd7-f60d-4265-afd3-2025edb4beab": {
+            "position": [
+                -499049,
+                -21782
+            ]
+        },
+        "346c6d41-6a7e-4efd-a1ad-32ef180224ec": {
+            "position": [
+                1903455,
+                -1004175
+            ]
+        },
+        "3de45608-b5ae-413e-aac5-8ad3858ac01d": {
+            "position": [
+                -5000000,
+                0
+            ]
+        },
+        "3ea025d8-89b4-4634-b5d5-11cd536eda0e": {
+            "position": [
+                -4875952,
+                21782
+            ]
+        },
+        "4f028c77-ea0a-491d-a761-d4126efb0cb8": {
+            "position": [
+                2187190,
+                1628792
+            ]
+        },
+        "50336ce8-b108-4943-8c17-2146e41582c7": {
+            "position": [
+                -2374049,
+                -21782
+            ]
+        },
+        "58c6c257-74e9-4972-b2f4-1452db2b38e5": {
+            "position": [
+                4375000,
+                5000000
+            ]
+        },
+        "5e1b5fa6-1cef-49a9-bb0d-8397bc6f255e": {
+            "position": [
+                7625000,
+                0
+            ]
+        },
+        "5f8240fc-b53a-4215-a297-c9f35f6de486": {
+            "position": [
+                -4874049,
+                -21782
+            ]
+        },
+        "64f06394-59d2-4ac1-a5a2-e8144d4840ad": {
+            "position": [
+                1250000,
+                0
+            ]
+        },
+        "6a79ea7c-3370-4f1f-968c-2830e58321f1": {
+            "position": [
+                4374827,
+                -5412758
+            ]
+        },
+        "7a969b90-e854-4a96-abeb-c2eea2b4c272": {
+            "position": [
+                3749863,
+                4335020
+            ]
+        },
+        "81c1f7c8-7df3-482a-b563-c09fc28a0c31": {
+            "position": [
+                -8750000,
+                0
+            ]
+        },
+        "81e0220d-02ca-4426-bc29-e79ec1f4f199": {
+            "position": [
+                1278490,
+                78378
+            ]
+        },
+        "9f7928c6-3e93-4639-80ca-2324b7c23667": {
+            "position": [
+                4090834,
+                -4793106
+            ]
+        },
+        "a073204a-9e39-4bf7-a1bc-2cd70d1583bd": {
+            "position": [
+                -8750000,
+                -1250000
+            ]
+        },
+        "b3151afc-bf1a-4cbd-92f0-5639b1cb9e61": {
+            "position": [
+                -8750000,
+                -5000000
+            ]
+        },
+        "b556995b-241b-44f6-b96c-e130d8f642b6": {
+            "position": [
+                -1124049,
+                -21782
+            ]
+        },
+        "bc69f0db-f486-4c0a-9046-40e5dbebfc8b": {
+            "position": [
+                4062397,
+                4876266
+            ]
+        },
+        "bc87f272-297e-44de-ad1d-f9abeda135a9": {
+            "position": [
+                -1749048,
+                -21782
+            ]
+        },
+        "bcfc2ba4-1dd5-402b-aabf-4ff6be2c722f": {
+            "position": [
+                -4875952,
+                21782
+            ]
+        },
+        "bf512b9b-df68-4dc5-bad6-21d25c16ae5e": {
+            "position": [
+                1239917,
+                10087
+            ]
+        },
+        "bf9abb88-bc6c-41e9-877c-f3fe24e961ec": {
+            "position": [
+                125952,
+                -21782
+            ]
+        },
+        "c3eddaae-186c-4a52-b6ef-7ba63fd2c9b2": {
+            "position": [
+                4374933,
+                5417513
+            ]
+        },
+        "cc969b4b-9c9d-4704-a540-d1206f7a484b": {
+            "position": [
+                2840904,
+                -2628003
+            ]
+        },
+        "d165ca80-a0b0-4cca-86a1-4f2a19292c8f": {
+            "position": [
+                3437329,
+                3793775
+            ]
+        },
+        "d334fdcc-3afc-4c06-9e5d-fa4552230055": {
+            "position": [
+                1250000,
+                0
+            ]
+        },
+        "dadf5e30-207d-4577-ab43-c3b7fc4cd406": {
+            "position": [
+                2499724,
+                2170037
+            ]
+        },
+        "db47e8c9-7092-4137-82f9-f5bb05794d4e": {
+            "position": [
+                -4249048,
+                -21782
+            ]
+        },
+        "e71c7c77-4bf2-487e-8b2c-56d2d3913bea": {
+            "position": [
+                1374524,
+                10891
+            ]
+        },
+        "e79d4502-78e8-4a91-a1fa-48443089a7f2": {
+            "position": [
+                2215938,
+                -1545451
+            ]
+        },
+        "e7e543dc-fa06-4310-8afc-0b0d3cf295fb": {
+            "position": [
+                -5000000,
+                0
+            ]
+        },
+        "e96d13d7-e231-47eb-b459-3517c1a52267": {
+            "position": [
+                -8750000,
+                5000000
+            ]
+        },
+        "ead4f784-a2b7-4133-965e-0971f04b5d74": {
+            "position": [
+                1375000,
+                0
+            ]
+        },
+        "ebd79eb1-9117-4ffe-99fd-f60caa87981c": {
+            "position": [
+                -8750000,
+                -6250000
+            ]
+        },
+        "ef50ba5f-042e-4fb3-8d42-062a2c9e7e7a": {
+            "position": [
+                1874655,
+                1087545
+            ]
+        },
+        "ef7c92d4-2ff8-4988-8503-95e78f335834": {
+            "position": [
+                1250000,
+                0
+            ]
+        },
+        "f99a9cdd-c897-4326-81bb-938dc60411fa": {
+            "position": [
+                4374827,
+                -5412758
+            ]
+        },
+        "fa9a3489-f6a8-4af4-a764-ca1685ccff38": {
+            "position": [
+                7625000,
+                0
+            ]
+        },
+        "faef6239-2b03-4940-9b01-631d7301b36c": {
+            "position": [
+                -8750000,
+                3750000
+            ]
+        }
+    },
+    "lines": {
+        "01e000b1-a7d0-461b-ac01-de59ac303edb": {
+            "from": "b3151afc-bf1a-4cbd-92f0-5639b1cb9e61",
+            "layer": 0,
+            "to": "28c73abd-80a7-4da2-88ad-6d6693b18a82",
+            "width": 0
+        },
+        "06b4c1cd-d0ed-42a6-b3cf-cf4de0fffa00": {
+            "from": "faef6239-2b03-4940-9b01-631d7301b36c",
+            "layer": 0,
+            "to": "e96d13d7-e231-47eb-b459-3517c1a52267",
+            "width": 0
+        },
+        "1443a86c-d4bc-4e64-a460-163c178bf813": {
+            "from": "e96d13d7-e231-47eb-b459-3517c1a52267",
+            "layer": 0,
+            "to": "58c6c257-74e9-4972-b2f4-1452db2b38e5",
+            "width": 0
+        },
+        "4ccf029b-95d4-434f-a1b6-15ff13f1b861": {
+            "from": "81c1f7c8-7df3-482a-b563-c09fc28a0c31",
+            "layer": 0,
+            "to": "5f8240fc-b53a-4215-a297-c9f35f6de486",
+            "width": 0
+        },
+        "54b8d00e-3116-45d9-bb58-5738ad8e629b": {
+            "from": "28c73abd-80a7-4da2-88ad-6d6693b18a82",
+            "layer": 0,
+            "to": "2d1fd0f0-7189-4454-98e5-3115c146da49",
+            "width": 0
+        },
+        "760c1065-3bef-41f8-9413-7309c9c7af01": {
+            "from": "58c6c257-74e9-4972-b2f4-1452db2b38e5",
+            "layer": 0,
+            "to": "c3eddaae-186c-4a52-b6ef-7ba63fd2c9b2",
+            "width": 0
+        },
+        "94edd0fc-412c-47c1-8bf1-544e31392ab0": {
+            "from": "346c6d41-6a7e-4efd-a1ad-32ef180224ec",
+            "layer": 0,
+            "to": "81e0220d-02ca-4426-bc29-e79ec1f4f199",
+            "width": 0
+        },
+        "b08d59bc-957f-438e-b98d-f62ba22ce561": {
+            "from": "0a1dfd04-d455-4118-9ac2-11a41edd52ab",
+            "layer": 0,
+            "to": "b3151afc-bf1a-4cbd-92f0-5639b1cb9e61",
+            "width": 0
+        },
+        "cd40f276-55b2-42b5-b859-650e84d470dd": {
+            "from": "bf9abb88-bc6c-41e9-877c-f3fe24e961ec",
+            "layer": 0,
+            "to": "2eb973ce-f9d3-4d86-9211-40ef358ec44a",
+            "width": 0
+        },
+        "de0a98a2-d859-4591-9093-a0a3248ac704": {
+            "from": "0a1dfd04-d455-4118-9ac2-11a41edd52ab",
+            "layer": 0,
+            "to": "ebd79eb1-9117-4ffe-99fd-f60caa87981c",
+            "width": 0
+        },
+        "e68a802a-8c72-41cf-82d5-cab2677f32c2": {
+            "from": "a073204a-9e39-4bf7-a1bc-2cd70d1583bd",
+            "layer": 0,
+            "to": "81c1f7c8-7df3-482a-b563-c09fc28a0c31",
+            "width": 0
+        },
+        "e773f6f0-6a43-4c94-a6dc-ac34e39265e2": {
+            "from": "ef50ba5f-042e-4fb3-8d42-062a2c9e7e7a",
+            "layer": 0,
+            "to": "bf512b9b-df68-4dc5-bad6-21d25c16ae5e",
+            "width": 0
+        }
+    },
+    "name": "Brushless DC Motor with Hall Sensors",
+    "pins": {
+        "073bea2e-fb4f-4349-927c-c5cf2b7049e1": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "name_visible": true,
+            "orientation": "left",
+            "pad_visible": true,
+            "position": [
+                -11250000,
+                3750000
+            ]
+        },
+        "c1f966e6-581b-4677-b597-80fef24c37a6": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "name_visible": true,
+            "orientation": "left",
+            "pad_visible": true,
+            "position": [
+                -11250000,
+                -6250000
+            ]
+        },
+        "ee47418b-f881-4246-89c0-5a310eb92966": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "name_visible": true,
+            "orientation": "left",
+            "pad_visible": true,
+            "position": [
+                -11250000,
+                -1250000
+            ]
+        }
+    },
+    "polygons": {
+        "092be5ac-70a6-42fa-866a-b54cb24f94f0": {
+            "layer": 0,
+            "parameter_class": "",
+            "vertices": [
+                {
+                    "arc_center": [
+                        -21250000,
+                        20000000
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        1250000,
+                        1250000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        1250000,
+                        0
+                    ],
+                    "arc_reverse": true,
+                    "position": [
+                        1250000,
+                        1250000
+                    ],
+                    "type": "arc"
+                }
+            ]
+        }
+    },
+    "text_placements": {},
+    "texts": {
+        "baf49d77-0e51-4709-9fd3-a287646529a1": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -4250000,
+                    -8250000
+                ]
+            },
+            "size": 1500000,
+            "text": "$VALUE",
+            "width": 0
+        },
+        "cf8e51e9-576f-46cb-9925-66dc77bd054b": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -4250000,
+                    8000000
+                ]
+            },
+            "size": 1500000,
+            "text": "$REFDES",
+            "width": 0
+        }
+    },
+    "type": "symbol",
+    "unit": "a39610e8-7384-46b5-91e2-5fa46086e599",
+    "uuid": "a7ce5fc7-cd15-449d-8d27-fca66033f43d"
+}

@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "bae0b926-8cfe-4b10-b400-0dc4e0327b6c": {
+            "name": "",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "b9460764-634e-4727-8f76-fdd6159beeeb"
+        }
+    },
+    "manufacturer": "Generic",
+    "name": "Spindle Motor",
+    "prefix": "M",
+    "tags": [
+        "bldc",
+        "motor"
+    ],
+    "type": "entity",
+    "uuid": "8498e1e1-91f8-4ed5-b224-50a26e9c5155"
+}

@@ -1,0 +1,20 @@
+{
+    "gates": {
+        "cc94295c-0355-4b64-a602-e38549fcf92a": {
+            "name": "",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "1807d494-a44b-4614-9291-a021f1fdebcf"
+        }
+    },
+    "manufacturer": "Toshiba",
+    "name": "TB67S209FTG",
+    "prefix": "U",
+    "tags": [
+        "driver",
+        "motor",
+        "stepper"
+    ],
+    "type": "entity",
+    "uuid": "b88a97d9-5783-4769-9c6c-fbc24987fe53"
+}

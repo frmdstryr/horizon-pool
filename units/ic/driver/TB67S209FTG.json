@@ -1,0 +1,148 @@
+{
+    "manufacturer": "Toshiba",
+    "name": "TB67S209FTG",
+    "pins": {
+        "064f6a55-070d-4867-a6f6-bf84aff4e2a8": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "ENABLE",
+            "swap_group": 0
+        },
+        "0879d83b-d2c1-48fd-a989-ae8de05ba741": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SMD0",
+            "swap_group": 0
+        },
+        "231b996a-0806-4b58-89c6-da83b6bb41c3": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "OUTB-",
+            "swap_group": 0
+        },
+        "29982585-36e7-47b9-a3f9-5a0ff9c9ca09": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "RESET",
+            "swap_group": 0
+        },
+        "40a3577d-9087-43bb-9e04-2f4fa2e083a6": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "VREF",
+            "swap_group": 0
+        },
+        "4e0cb0e8-421c-433b-9983-43e6ed6422d3": {
+            "direction": "input",
+            "names": [
+                "DIR"
+            ],
+            "primary_name": "CW/CCW",
+            "swap_group": 0
+        },
+        "55d0df3b-1ef9-4b16-b816-5f044cf6d3e6": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "OUTB+",
+            "swap_group": 0
+        },
+        "687f3b0e-2f8c-4e9c-9f52-285507fde666": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "RSA",
+            "swap_group": 0
+        },
+        "74335b87-0f33-493f-9f24-4190a55587e0": {
+            "direction": "output",
+            "names": [
+                "ERROR"
+            ],
+            "primary_name": "LO",
+            "swap_group": 0
+        },
+        "88371105-4554-48b3-9417-25082f57bafc": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DMODE2",
+            "swap_group": 0
+        },
+        "88edf6c3-a246-4b94-a0bf-b3d0cbe5ce6d": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SMD1",
+            "swap_group": 0
+        },
+        "8fd5dcf7-22d7-4734-aa05-7b8a5806f62f": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VM",
+            "swap_group": 0
+        },
+        "96b17719-5d01-43d4-8d0f-bff2448c12cb": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DMODE0",
+            "swap_group": 0
+        },
+        "975f92e6-92a8-41c1-841a-54358f04aaf0": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "OSCM",
+            "swap_group": 0
+        },
+        "afbed58a-f3fd-4583-b6a3-cb85e3c28635": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "RSB",
+            "swap_group": 0
+        },
+        "d2347f92-b453-4c7b-bd3c-13bd76c073bf": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "OUTA+",
+            "swap_group": 0
+        },
+        "d9bd8501-e3da-40b3-8e1f-0e2021a9a698": {
+            "direction": "output",
+            "names": [
+                "ANGLE"
+            ],
+            "primary_name": "MO",
+            "swap_group": 0
+        },
+        "e00a99d1-97db-4dab-8adb-d61ec90edf0d": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "e38a0f8e-c3d9-4ef8-8e93-e9aa419ead25": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "OUTA-",
+            "swap_group": 0
+        },
+        "edbd4b75-285c-4122-96c6-59f327769723": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DMODE1",
+            "swap_group": 0
+        },
+        "efb56646-1ee0-4db8-aece-2014849d2706": {
+            "direction": "input",
+            "names": [
+                "STEP"
+            ],
+            "primary_name": "CLK",
+            "swap_group": 0
+        },
+        "fea425bb-7b31-4339-b0c6-a94a04226b62": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCC",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "1807d494-a44b-4614-9291-a021f1fdebcf"
+}

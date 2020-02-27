@@ -1,0 +1,65 @@
+{
+    "MPN": [
+        false,
+        "5718N-05E-05R0"
+    ],
+    "datasheet": [
+        false,
+        "https://www.linengineering.com/products/stepper-motors/5718-series/5718m-02s/#fndtn-features"
+    ],
+    "description": [
+        false,
+        "NEMA 23 High torque Stepper Motor 2A"
+    ],
+    "entity": "994ffb8d-955b-42d5-b883-74cdb609827c",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "LIN Engineering"
+    ],
+    "model": "84ec8229-d872-42f8-bfcc-96938ff02bd1",
+    "package": "d09a36ed-6bfc-411e-8bc8-c83cd03688da",
+    "pad_map": {
+        "37ad2e38-76ac-4a0b-adf3-2500e30336a0": {
+            "gate": "5df2987a-af90-4f25-ae4f-9958da68f304",
+            "pin": "6350d9a5-2515-4285-a6e8-1bcaf1bfde56"
+        },
+        "3cde8013-3885-4310-90b0-85740b7a45b4": {
+            "gate": "5df2987a-af90-4f25-ae4f-9958da68f304",
+            "pin": "1ae33749-ac15-4dd0-a0b1-929d267a03ea"
+        },
+        "7bc2147a-0234-41f6-ab65-444e57a43ce5": {
+            "gate": "5df2987a-af90-4f25-ae4f-9958da68f304",
+            "pin": "aa7a166b-806d-4621-b9ef-3ea5fac893ac"
+        },
+        "7de8ad61-d839-4bad-85e8-5b3d093d4d6c": {
+            "gate": "5df2987a-af90-4f25-ae4f-9958da68f304",
+            "pin": "2b1597ae-02c9-4a1b-a26d-0d5ec3c4a959"
+        },
+        "a43c1c45-4e2c-4164-990b-5719d05d21b4": {
+            "gate": "5df2987a-af90-4f25-ae4f-9958da68f304",
+            "pin": "aa22abe9-b5a1-428a-a2e2-f5cf3e93ef97"
+        },
+        "ccf92a7d-63f1-40bd-918f-da246deb854a": {
+            "gate": "5df2987a-af90-4f25-ae4f-9958da68f304",
+            "pin": "f12b8fe1-afad-4ccc-b866-65eae525defc"
+        },
+        "f4f2991b-d46c-492e-b2b6-beacc3120e00": {
+            "gate": "5df2987a-af90-4f25-ae4f-9958da68f304",
+            "pin": "e5d9539c-3c5b-47b6-ad4c-8aeadb8bcce8"
+        },
+        "f5ac41ed-7d82-44b2-8d6b-a60285ac3e7b": {
+            "gate": "5df2987a-af90-4f25-ae4f-9958da68f304",
+            "pin": "4ea1ee89-ddd2-47f6-b4b4-22e216c986c3"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "b90b0358-d35c-446e-a7f7-57e300c8664b",
+    "value": [
+        false,
+        ""
+    ]
+}

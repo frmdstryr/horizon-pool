@@ -5,11 +5,11 @@
     ],
     "datasheet": [
         false,
-        "https://www.onsemi.com/pub/Collateral/1N914BWS-D.pdf"
+        "https://www.fairchildsemi.com/datasheets/1N/1N4148WS.pdf"
     ],
     "description": [
         false,
-        "High Conductance Fast Switching Diode"
+        "Small Signal general Purpose Diode"
     ],
     "entity": "c44a773c-cdf5-4193-b5be-ab54952f3f28",
     "inherit_model": false,
@@ -33,12 +33,12 @@
     "parametric": {},
     "tags": [
         "diode",
-        "sma"
+        "sod-323"
     ],
     "type": "part",
-    "uuid": "19390861-8446-4a8a-9dc7-de7eed3d0517",
+    "uuid": "b73aa387-1d93-40ff-a1c5-1a36a02161d8",
     "value": [
         false,
-        ""
+        "1N4148"
     ]
 }

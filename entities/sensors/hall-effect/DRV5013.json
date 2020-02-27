@@ -1,0 +1,20 @@
+{
+    "gates": {
+        "989a2fcd-db2d-4bfe-b76b-0f3c9364cebb": {
+            "name": "",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "73948719-0a6a-46bd-9e70-ee7137d9ac51"
+        }
+    },
+    "manufacturer": "Texas Instruments",
+    "name": "DRV5013",
+    "prefix": "H",
+    "tags": [
+        "hall",
+        "magnetics",
+        "sensor"
+    ],
+    "type": "entity",
+    "uuid": "5eac72dd-5eb0-44f9-bf96-4725cb28d461"
+}

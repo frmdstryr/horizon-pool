@@ -18,7 +18,7 @@
         false,
         "Texas Instruments"
     ],
-    "model": "00000000-0000-0000-0000-000000000000",
+    "model": "490b112c-cf31-47f9-9985-0f2a0f04cadb",
     "package": "d37ed396-379c-4250-ab5f-758359af1082",
     "pad_map": {
         "0184b215-50a3-4fea-a50a-56f6bc4504a2": {
@@ -56,6 +56,10 @@
         "56dab3f7-5352-4eb3-8edd-d1bf00741e94": {
             "gate": "bf3bf81f-578b-4a10-b4c1-6381eff0df31",
             "pin": "534a10bc-adc5-4a82-a5b8-6aeddea5897e"
+        },
+        "78081d15-5f4e-4b74-ba32-998a552a92b3": {
+            "gate": "bf3bf81f-578b-4a10-b4c1-6381eff0df31",
+            "pin": "be7037ed-331a-424b-ac7d-60d4eab7a843"
         },
         "7c6208c9-b8a7-4b52-85fd-eddaf629b268": {
             "gate": "bf3bf81f-578b-4a10-b4c1-6381eff0df31",

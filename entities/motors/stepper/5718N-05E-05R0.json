@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "5df2987a-af90-4f25-ae4f-9958da68f304": {
+            "name": "",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "55af3150-179f-4df2-9483-9ae96b617284"
+        }
+    },
+    "manufacturer": "LIN Engineering",
+    "name": "5718N-05E-05R0",
+    "prefix": "M",
+    "tags": [
+        "motor",
+        "stepper"
+    ],
+    "type": "entity",
+    "uuid": "994ffb8d-955b-42d5-b883-74cdb609827c"
+}

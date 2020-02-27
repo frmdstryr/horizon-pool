@@ -38,18 +38,6 @@
             "primary_name": "H2",
             "swap_group": 0
         },
-        "1aa15b72-4a01-4072-810e-332f3800419c": {
-            "direction": "passive",
-            "names": [],
-            "primary_name": "GND",
-            "swap_group": 0
-        },
-        "1e370513-0d8c-4902-9a43-9896b322c9be": {
-            "direction": "passive",
-            "names": [],
-            "primary_name": "GND",
-            "swap_group": 0
-        },
         "290e1b59-fa04-4356-96ec-3e53dfdf6462": {
             "direction": "passive",
             "names": [],
@@ -79,12 +67,6 @@
                 "A"
             ],
             "primary_name": "SENSEA",
-            "swap_group": 0
-        },
-        "693ba077-122f-4b50-b0eb-0d55d4c108c1": {
-            "direction": "passive",
-            "names": [],
-            "primary_name": "GND",
             "swap_group": 0
         },
         "697b418a-e7e0-4c4e-b2a6-596e1e08a885": {

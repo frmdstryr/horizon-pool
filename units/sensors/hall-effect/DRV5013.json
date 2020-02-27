@@ -1,0 +1,26 @@
+{
+    "manufacturer": "Texas Instruments",
+    "name": "DRV5013",
+    "pins": {
+        "309002e5-6c6d-4f3c-93f0-2dbc5c3341c1": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "OUT",
+            "swap_group": 0
+        },
+        "922f99d9-5707-4c48-b50c-8cfbe3ad55c2": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "dc9a2731-74e0-4785-be7b-23cbffd633c6": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCC",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "73948719-0a6a-46bd-9e70-ee7137d9ac51"
+}

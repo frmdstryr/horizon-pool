@@ -1,0 +1,20 @@
+{
+    "gates": {
+        "d70e0c77-bcc8-44e1-a890-d97e083f877d": {
+            "name": "",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "474cf042-b62a-40b6-9d5f-de76954207c9"
+        }
+    },
+    "manufacturer": "Toshiba",
+    "name": "TB67S249FTG",
+    "prefix": "U",
+    "tags": [
+        "bldc",
+        "driver",
+        "motor"
+    ],
+    "type": "entity",
+    "uuid": "37c62523-071c-431e-bfb5-218cc89e525b"
+}

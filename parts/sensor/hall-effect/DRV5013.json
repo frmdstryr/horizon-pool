@@ -1,0 +1,49 @@
+{
+    "MPN": [
+        false,
+        "DRV5013AGQLPGM"
+    ],
+    "datasheet": [
+        false,
+        "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fdrv5013 DRV5013AGQLPGM "
+    ],
+    "description": [
+        false,
+        "MAGNETIC SWITCH LATCH TO92-3"
+    ],
+    "entity": "5eac72dd-5eb0-44f9-bf96-4725cb28d461",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Texas Instruments"
+    ],
+    "model": "84ec8229-d872-42f8-bfcc-96938ff02bd1",
+    "package": "9103c334-3f16-47e9-ab2b-a9700763c47f",
+    "pad_map": {
+        "7bc2147a-0234-41f6-ab65-444e57a43ce5": {
+            "gate": "989a2fcd-db2d-4bfe-b76b-0f3c9364cebb",
+            "pin": "dc9a2731-74e0-4785-be7b-23cbffd633c6"
+        },
+        "7de8ad61-d839-4bad-85e8-5b3d093d4d6c": {
+            "gate": "989a2fcd-db2d-4bfe-b76b-0f3c9364cebb",
+            "pin": "922f99d9-5707-4c48-b50c-8cfbe3ad55c2"
+        },
+        "f4f2991b-d46c-492e-b2b6-beacc3120e00": {
+            "gate": "989a2fcd-db2d-4bfe-b76b-0f3c9364cebb",
+            "pin": "309002e5-6c6d-4f3c-93f0-2dbc5c3341c1"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "hall",
+        "magnetic",
+        "sensor"
+    ],
+    "type": "part",
+    "uuid": "72f994a3-29ca-4f5f-9aff-ae04f0ae6e70",
+    "value": [
+        false,
+        ""
+    ]
+}

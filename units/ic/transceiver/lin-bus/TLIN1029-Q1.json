@@ -1,0 +1,44 @@
+{
+    "manufacturer": "Texas Instruments",
+    "name": "TLIN1029-Q1",
+    "pins": {
+        "2bcc76e1-bc43-4c6a-b5ed-1102f6e83a22": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSUP",
+            "swap_group": 0
+        },
+        "2d3bc404-035b-487d-83e6-e907ae4f664a": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "LIN",
+            "swap_group": 0
+        },
+        "2d8d5b32-d81a-4f67-8a15-ce63d6eceaa4": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "RXD",
+            "swap_group": 0
+        },
+        "4bc595c6-cdcf-4e3c-83f9-e71bc88d1246": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "6818bfe4-ef77-4890-8aa8-dbf5e80fd0eb": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "TXD",
+            "swap_group": 0
+        },
+        "9314c8c3-52e5-419e-b5d1-18b5533a88ef": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "EN",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "7aa9a35a-1549-47fb-a4d0-947391ed2d8f"
+}

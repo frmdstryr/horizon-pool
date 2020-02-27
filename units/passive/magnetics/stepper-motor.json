@@ -1,0 +1,32 @@
+{
+    "manufacturer": "Generic",
+    "name": "Bipolar Stepper Motor 4 lead ",
+    "pins": {
+        "2b1597ae-02c9-4a1b-a26d-0d5ec3c4a959": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "A-",
+            "swap_group": 0
+        },
+        "6350d9a5-2515-4285-a6e8-1bcaf1bfde56": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "B-",
+            "swap_group": 0
+        },
+        "aa7a166b-806d-4621-b9ef-3ea5fac893ac": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "A+",
+            "swap_group": 0
+        },
+        "e5d9539c-3c5b-47b6-ad4c-8aeadb8bcce8": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "B+",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "e2676af1-6d13-414a-81bd-b14ec7e01dc1"
+}
