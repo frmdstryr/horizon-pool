@@ -2,5 +2,5 @@
 .gdb_history
 tmp/*.json
 3d_models/local
-.remote/
-
+**/__pycache__
+*.imp_meta

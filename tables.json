@@ -54,8 +54,22 @@
 					"Electrolytic",
 					"C0G/NP0",
 					"X5R",
-					"X7R"
+					"X7R",
+					"X6S",
+					"Y5V",
+					"X7S",
+					"X7T",
+					"X8L",
+					"X8R"
 				]
+			},
+			{
+				"name" : "tolerance",
+				"display_name": "Tolerance",
+				"type" : "quantity",
+				"unit" : "%",
+				"use_si" : false,
+				"required": false
 			}
 		]
 	},
