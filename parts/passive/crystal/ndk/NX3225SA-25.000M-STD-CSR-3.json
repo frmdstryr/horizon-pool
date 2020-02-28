@@ -1,0 +1,33 @@
+{
+    "MPN": [
+        false,
+        "NX3225SA-25.000M-STD-CSR-3"
+    ],
+    "base": "b1ac4f74-245e-4ed2-ac53-0e6c892ab2fc",
+    "datasheet": [
+        true,
+        ""
+    ],
+    "description": [
+        false,
+        "25MHz ±15ppm Crystal 8pF 50 Ohms 4-SMD, No Lead"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "NDK"
+    ],
+    "model": "25a44a9e-6591-4fe3-807a-cd2790131da0",
+    "orderable_MPNs": {
+        "e3e54d84-2305-4d57-801a-33855fa9919c": "NX3225SA-25.000M-STD-CSR-3"
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "72f2e94f-109e-4fb9-9e54-024b3ed53d35",
+    "value": [
+        false,
+        "25MHz"
+    ]
+}
