@@ -1,0 +1,33 @@
+{
+    "MPN": [
+        false,
+        "BLM18KG601SZ1D"
+    ],
+    "base": "c3e332a4-7d74-41e1-9932-67cbd9d8530c",
+    "datasheet": [
+        false,
+        "https://www.murata.com/en-us/products/productdata/8796750610462/QNFA9122.pdf"
+    ],
+    "description": [
+        false,
+        "600 Ohms @ 100MHz 1 Signal Line Ferrite Bead 0603 (1608 Metric) 1.3A 150mOhm"
+    ],
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Murata"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "orderable_MPNs": {
+        "98226009-e434-4e33-b0f8-8402be636713": "‎BLM18KG601SZ1D‎"
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "ce48e126-e146-41d3-836b-d2037543411a",
+    "value": [
+        false,
+        "BLM18KG601SZ1D"
+    ]
+}

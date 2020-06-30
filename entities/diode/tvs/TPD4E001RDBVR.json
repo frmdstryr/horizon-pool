@@ -1,0 +1,20 @@
+{
+    "gates": {
+        "1511eb3b-53e0-4652-9edf-92ae0da5688c": {
+            "name": "",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "28f58699-cba6-4e59-915f-91b87e455fc9"
+        }
+    },
+    "manufacturer": "Texas Instruments",
+    "name": "TPD4E001RDBVR",
+    "prefix": "D",
+    "tags": [
+        "diode",
+        "esd",
+        "tvs"
+    ],
+    "type": "entity",
+    "uuid": "4b373d6e-17dd-41f2-9a76-fdb7611d4dab"
+}

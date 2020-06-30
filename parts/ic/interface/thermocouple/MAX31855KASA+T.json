@@ -1,0 +1,67 @@
+{
+    "MPN": [
+        false,
+        "MAX31855KASA+T"
+    ],
+    "datasheet": [
+        false,
+        "https://datasheets.maximintegrated.com/en/ds/MAX31855.pdf"
+    ],
+    "description": [
+        false,
+        "Thermocouple to SPI converter"
+    ],
+    "entity": "d2b13fd2-fbd1-496f-ad17-75a393aaa2e6",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Maxim Integrated"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "orderable_MPNs": {
+        "0dca6fbe-e7d6-4b77-8934-dd7d139c16b9": "MAX31855KASA+T"
+    },
+    "package": "0932e22e-0cf7-46dc-b09c-4cc761a67608",
+    "pad_map": {
+        "17341892-a120-44e2-97ea-6e4f8e3d7da5": {
+            "gate": "71a20f08-1c8f-4aa8-ad55-9b79505995ee",
+            "pin": "a87001c8-5320-4181-98d8-b522f7acd96f"
+        },
+        "29f18ab8-6cea-44fc-9bf5-4fb888f5245b": {
+            "gate": "71a20f08-1c8f-4aa8-ad55-9b79505995ee",
+            "pin": "6a191773-0767-4f84-b65e-17ade6abc6f2"
+        },
+        "3d725e25-0d60-46cb-a21f-82462d3ce156": {
+            "gate": "71a20f08-1c8f-4aa8-ad55-9b79505995ee",
+            "pin": "65b2bdf0-6a9e-4ef1-a467-f42f59f4bcee"
+        },
+        "51d7c05f-acae-46d5-9c26-2ea9d17bf7a8": {
+            "gate": "71a20f08-1c8f-4aa8-ad55-9b79505995ee",
+            "pin": "5a6a827e-8161-4f0d-bce7-211ac361659c"
+        },
+        "68b17b6f-ab52-4c2b-9389-c36d3c06eeef": {
+            "gate": "71a20f08-1c8f-4aa8-ad55-9b79505995ee",
+            "pin": "0425e993-3714-4e04-8ade-98a0b390addd"
+        },
+        "6f82c7c4-9578-4cb0-a92c-8b09534d5dc9": {
+            "gate": "71a20f08-1c8f-4aa8-ad55-9b79505995ee",
+            "pin": "77e1ef4a-6115-4e20-a76f-0b0bed71ce16"
+        },
+        "82d773fb-4473-4bd9-a879-a6ca2756055c": {
+            "gate": "71a20f08-1c8f-4aa8-ad55-9b79505995ee",
+            "pin": "693280ae-463b-4d59-aac9-22126d7aadc9"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "spi",
+        "thermocouple"
+    ],
+    "type": "part",
+    "uuid": "bc6ddac2-071a-4061-b925-97a8b6508c7b",
+    "value": [
+        false,
+        "K-Type"
+    ]
+}

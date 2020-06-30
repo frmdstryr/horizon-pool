@@ -1,0 +1,64 @@
+{
+    "MPN": [
+        false,
+        "TPD4E001RDBVR"
+    ],
+    "datasheet": [
+        false,
+        "http://www.ti.com/lit/gpn/tpd4e001"
+    ],
+    "description": [
+        false,
+        "17V (Typ) Clamp 5.5A (8/20µs) Ipp Tvs Diode Surface Mount SOT-23-6"
+    ],
+    "entity": "4b373d6e-17dd-41f2-9a76-fdb7611d4dab",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Texas Instruments"
+    ],
+    "model": "eb54e7ca-dcad-4e09-bd45-d2e32cddaa2a",
+    "orderable_MPNs": {
+        "a91fb82a-bec6-4a33-85fe-9b6d20f7b81c": "TPD4E001RDBVR"
+    },
+    "package": "db48b860-9206-4222-b531-dea96399c70b",
+    "pad_map": {
+        "40a9f890-5335-4ead-bd4a-d1dba2de41ae": {
+            "gate": "1511eb3b-53e0-4652-9edf-92ae0da5688c",
+            "pin": "ad310d96-ed8e-4f04-97d2-1cf3df57dff0"
+        },
+        "531c3759-a1b6-40c6-9474-5554dc94bcec": {
+            "gate": "1511eb3b-53e0-4652-9edf-92ae0da5688c",
+            "pin": "ad5f9c5f-bfc2-41fe-a335-5bad07a1ba51"
+        },
+        "9fe9b6c3-f887-4523-976a-6aa050235658": {
+            "gate": "1511eb3b-53e0-4652-9edf-92ae0da5688c",
+            "pin": "48325a55-8743-48d8-8cde-2417b6f18dd6"
+        },
+        "bb9bbbd8-9aa2-49aa-98fd-b508ded56028": {
+            "gate": "1511eb3b-53e0-4652-9edf-92ae0da5688c",
+            "pin": "9a406bf5-bd91-4803-85e8-a42907215db4"
+        },
+        "be802fd1-5220-4258-a11f-c1529e6187e0": {
+            "gate": "1511eb3b-53e0-4652-9edf-92ae0da5688c",
+            "pin": "70edcbc2-2df6-4059-8d6c-c2b531c13c45"
+        },
+        "f827f54d-8a25-45ce-a5c6-aa1cdc05418a": {
+            "gate": "1511eb3b-53e0-4652-9edf-92ae0da5688c",
+            "pin": "640415e8-38b2-45f2-9b89-57794b36bf2e"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "diode",
+        "esd",
+        "tvs"
+    ],
+    "type": "part",
+    "uuid": "cb6b74f5-3a2d-4ac4-8307-d6ed72b1cefa",
+    "value": [
+        false,
+        ""
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "71a20f08-1c8f-4aa8-ad55-9b79505995ee": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "7db6447a-658e-4844-963d-c3ba36244437"
+        }
+    },
+    "manufacturer": "Maxim Integrated",
+    "name": "MAX31855",
+    "prefix": "U",
+    "tags": [
+        "thermocouple"
+    ],
+    "type": "entity",
+    "uuid": "d2b13fd2-fbd1-496f-ad17-75a393aaa2e6"
+}

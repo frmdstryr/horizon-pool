@@ -1,0 +1,44 @@
+{
+    "manufacturer": "",
+    "name": "TVS Diode 4-Channel ",
+    "pins": {
+        "48325a55-8743-48d8-8cde-2417b6f18dd6": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "IO4",
+            "swap_group": 0
+        },
+        "640415e8-38b2-45f2-9b89-57794b36bf2e": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "IO2",
+            "swap_group": 0
+        },
+        "70edcbc2-2df6-4059-8d6c-c2b531c13c45": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "9a406bf5-bd91-4803-85e8-a42907215db4": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "IO1",
+            "swap_group": 0
+        },
+        "ad310d96-ed8e-4f04-97d2-1cf3df57dff0": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "IO3",
+            "swap_group": 0
+        },
+        "ad5f9c5f-bfc2-41fe-a335-5bad07a1ba51": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "VCC",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "28f58699-cba6-4e59-915f-91b87e455fc9"
+}
